@@ -1,3 +1,7 @@
 # bluejam
-Bluetooth Jammer
-git clone https://github.com/uselessnocap/bluejam.gitcd bluedoser chmod 7777 bluejem.sh ./bluejem.sh
+Bluetooth Jammer.
+# Install
+```git clone https://github.com/uselessnocap/bluejam.git
+```cd bluejem
+```chmod 7777 bluejem.sh
+```./bluejem.sh
