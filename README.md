@@ -1,4 +1,4 @@
-# bluejam
+# Bluejam
 Bluetooth Jammer.
 # Install
 ```git clone https://github.com/uselessnocap/bluejam.git```
